@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TAN HUI QUN</h1>
 <h3 align="center">A student from Faculty Computing, University Technology Malaysia(UTM)</h3>
 
-- 🌱 I’m currently learning **Programming, Database, System Analysis& Design**
+- 🌱 I’m currently learning **Application Development, Database, System Analysis& Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huiqun1027](https://github.com/huiqun1027)
 
